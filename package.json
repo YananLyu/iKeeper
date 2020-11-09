@@ -1,13 +1,16 @@
 {
-  "name": "keeper-app-part-1-starting",
+  "name": "ikeeper-app-part-1-starting",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-scripts": "3.2.0"
+    "react-scripts": "^4.0.0",
+    "uuid": "^8.3.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"
